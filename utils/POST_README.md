@@ -5,7 +5,7 @@
 - [x] Vector
 - [ ] deque
 - [ ] priority_queue
-- [ ] stack
+- [x] stack
 - [ ] set
 - [ ] unordered_set
 - [ ] map
